@@ -1,0 +1,23 @@
+﻿table {
+    border: 2px solid black;
+}
+
+th {
+    border: 1px solid black;
+    background-color: lightgray;
+    padding: 6px;
+}
+
+td {
+    border: 1px solid black;
+}
+
+li, ul {
+    list-style-type: none;
+/*    background-color: lightgray;
+*/}
+
+li {
+    border-bottom: 1px solid grey;
+}
+
